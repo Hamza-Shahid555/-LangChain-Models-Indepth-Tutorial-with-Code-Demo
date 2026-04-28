@@ -1,0 +1,18 @@
+# LangChain Core & Tools
+langchain
+langchain-core
+python-dotenv
+
+# Providers
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Data Science Utilities
+numpy
+scikit-learn
